@@ -12,7 +12,7 @@ h1 {
 }
 
 header {
-  background-color: #333;
+  background-color: #33333350;
   padding: 10px 0;
   border-radius: 50px;
 }
@@ -31,7 +31,6 @@ nav ul li {
 
 nav ul li a {
   color: #111;
-  opacity: 80%;
   text-decoration: none;
   font-weight: bold;
   border-radius: 5px;
@@ -46,8 +45,7 @@ main {
   padding: 50px;
   max-width: 800px;
   margin: auto;
-  background-color: #cfcfcf;
-  opacity: 70%;
+  background-color: #cfcfcf30;
   border-radius: 5px;
 }
 
